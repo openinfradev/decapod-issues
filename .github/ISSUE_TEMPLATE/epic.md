@@ -1,7 +1,7 @@
 ---
 name: Epic
 about: 'Create Epic '
-title: ''
+title: "[Epic]"
 labels: ''
 assignees: ''
 
