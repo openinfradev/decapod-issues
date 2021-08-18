@@ -13,10 +13,10 @@ Brief summary of what this Epic is, whether it's a larger project, goal, or user
 ### Initiative / goal
 Describe how this Epic impacts an initiative the business is working on.
 
-## Acceptance criteria and must have scope
+### Acceptance criteria and must have scope
 Define what is a must-have for launch and in-scope. Keep this section fluid and dynamic until you lock-in priority during planning.
 
-## Stakeholders
+### Stakeholders
 Describe who needs to be kept up-to-date about this Epic, included in discussions, or updated along the way. Stakeholders can be both in Product/Engineering, as well as other teams like Customer Success who might want to keep customers updated on the Epic project.
 
 ## Timeline
