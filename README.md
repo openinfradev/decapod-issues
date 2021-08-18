@@ -1,2 +1,2 @@
 # decapod-issues
-(WIP) place holders for zenhub overview board
+place holder for epic, cross-repo issues, etc. 
