@@ -1,3 +1,5 @@
+<a href="https://zenhub.com"><img src="https://dxssrr2j0sq4w.cloudfront.net/3.2.0/img/external/zenhub-badge.png" alt="ZenHub logo"></a>
+
 # decapod-issues: place holder for epic, issues, etc. 
 
 This repository is dedicated for all the issues and discussions regarding tacoplay & decapod development.
