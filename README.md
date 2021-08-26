@@ -14,3 +14,19 @@ All the issues that requires code development on the following repos will be pla
 * openinfradev/kustomize-helm-transformer
 * openinfradev/tacoplay
 * openinfradev/helm-charts 
+
+Relationships among all the repositories are 
+```
+ decapod, tacoplay development 
+ ├── decapod project 
+ │   ├── decapod-flow
+ │   ├── decapod-base-yaml
+ │   ├── decapod-site
+ │   ├── decapodt-bootstrap
+ │   ├── decapod-docs
+ │   └── kustomize-helm-transformer
+ ├── tacoplay 
+ │   └── tacoplay 
+ └── shared  
+     └── helm-charts 
+```
