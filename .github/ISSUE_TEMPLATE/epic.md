@@ -1,23 +1,28 @@
 ---
 name: Epic
 about: 'Create Epic '
-title: "[Epic]"
+title: "[Epic] "
 labels: ''
 assignees: ''
 
 ---
+**Discussion Link (option)**
+- _put link here_
 
-### Description
-Brief summary of what this Epic is, whether it's a larger project, goal, or user story. Describe the job to be done, which persona this Epic is mainly for, or if more multiple, break it down by user and job story.
 
-### Initiative / goal
-Describe how this Epic impacts an initiative the business is working on.
+### Description (Backgrounds, Jobs to do, Goal, User Stories) 
+- _[ ] Epic에 대한 간략한 내용을 적어주세요. Epic이 만들어진 배경, 목표, 어떤 일들이 수행되어야 하는지등을 기술해주시면 됩니다._
+- _[ ] 특히, 해당 Epic이 사용자에게 제공하는 기능일 경우 간략하게라도 하나 이상의 Use Story를 적어주시기 바랍니다._
+
+### Initiative / Impacts
+- _[ ] 해당 Epic이 완성될 경우, 이 기능의 사용자나 혹은 decapod 자체에 어떤 영향을 주게 될지에 대해 적어주세요._
 
 ### Acceptance criteria and must have scope
-Define what is a must-have for launch and in-scope. Keep this section fluid and dynamic until you lock-in priority during planning.
+- _[ ] Epic을 완성하기 위해 필요한 must-have가 무엇인지, 어떤 Scope을 가지는지 (정확한 타겟 범위)를 적어주세요._
+- _[ ] 특히, 이 섹션은 backlog-refining과 planning을 통해서 지속적으로 구체화 되어야 합니다._
 
 ### Stakeholders
-Describe who needs to be kept up-to-date about this Epic, included in discussions, or updated along the way. Stakeholders can be both in Product/Engineering, as well as other teams like Customer Success who might want to keep customers updated on the Epic project.
+- _[ ] 해당 Epic에 대한 내용을 논의하고, 구체화를 하는데 있어 포함되어야 할 개인(사람)이나 팀(조직)을 적어주세요._ 
 
-## Timeline
-What's the timeline for this Epic, what resources are needed, and what might potentially block this from hitting the projected end date.
+### Timeline
+- _[ ] Epic을 수행하기 위한 타임라인을 적어주세요. 어떤 리소스들이 필요한지, 혹은 일정에 영향을 미칠수 있는 잠재적인 Blocking Issue가 무엇인지도 기술해주시기 바랍니다._
